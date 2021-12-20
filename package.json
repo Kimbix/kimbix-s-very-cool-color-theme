@@ -1,0 +1,21 @@
+{
+    "name": "kimbix-s-very-cool-color-theme",
+    "displayName": "Kimbix's Very Cool Color Theme",
+    "description": "A very lame guy made a very cool theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kimbix's Very Cool Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kimbix's Very Cool Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
